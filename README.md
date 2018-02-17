@@ -1,2 +1,2 @@
-# CS010_finalproject
-A two player tic-tac-toe game. The Final lab project from CS 010 class in C++ 
+# CS010_project2
+A two player tic-tac-toe game. The second lab project from introductory class in C++ 
